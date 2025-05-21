@@ -1,6 +1,7 @@
 # Django_Project
 ## Primeiros passos:
  python -m venv venv
+ 
  .\venv\Scripts\activate
  -m pip install Django
  py -m pip install Django
